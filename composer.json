@@ -1,0 +1,18 @@
+{
+    "name": "mts-link/event-sourcing-example",
+    "version": "0.0.1",
+    "autoload": {
+        "psr-4": {
+            "EventSourcingExample\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Karen Sagatelyan",
+            "email": "ksagatelyan@yandex.ru"
+        }
+    ],
+    "require": {
+        "ecotone/lite-application-starter": "^1.0.1"
+    }
+}
